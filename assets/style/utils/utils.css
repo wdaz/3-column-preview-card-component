@@ -1,0 +1,27 @@
+.grid {
+    display: grid;
+}
+
+.bg-sedan {
+    background-color: var(--bright-orange);
+}
+
+.bg-suv {
+    background-color: var(--dark-cyan);
+}
+
+.bg-luxury {
+    background-color: var(--very-dark-cyan);
+}
+
+.text-sedan {
+    color: var(--bright-orange);
+}
+
+.text-suv {
+    color: var(--dark-cyan);
+}
+
+.text-luxury {
+    color: var(--very-dark-cyan);
+}
